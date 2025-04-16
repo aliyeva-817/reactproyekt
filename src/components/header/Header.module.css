@@ -1,0 +1,30 @@
+.first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.btn{
+    width: 170px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: rgb(27, 86, 205);
+    color: white;
+    font-size: 16px;
+}
+.inp{
+    width: 900px;
+    height: 40px;
+    border: 1px solid black;
+    padding: 3px 20px;
+    border-radius: 40px;
+}
+.yazi{
+    color: grey;
+    font-size: 14px;
+}
+
+.shekil{
+    height: 90px;
+}
